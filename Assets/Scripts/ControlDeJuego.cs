@@ -32,6 +32,12 @@ public class ControlDeJuego : MonoBehaviour
         
     }
 
+    public void CargarNivelOculto()
+    {
+        SceneManager.LoadScene("Nivel_Oculto");
+    }
+
+
     public void CargarAyuda()
     {
         SceneManager.LoadScene("PantallaAyuda");

@@ -29,4 +29,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/PantallaAyuda.unity
     guid: d2dc74aefc27a0645845f3bcfcb4e4a7
+  - enabled: 1
+    path: Assets/Scenes/Nivel_Oculto.unity
+    guid: 4f25272b28c6426439249d975d1518d3
   m_configObjects: {}
